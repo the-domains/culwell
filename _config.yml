@@ -1,0 +1,28 @@
+name: culwell
+favicon: null
+layout_spectrum: 0.951082605170086
+typography_spectrum: 0.2696287278085947
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.08266229997389019
+  lightness: 0.4639944168739021
+  saturation: 0.49875758425332606
+  rhythmicContrast: 0.7658209623768926
+purpose: []
